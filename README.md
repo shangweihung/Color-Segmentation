@@ -1,5 +1,5 @@
 # Color-Segmentation
-Blur Barrel Detection 
+Blue Barrel Detection 
 
 # Introduction
 ![image](https://github.com/shangweihung/Color-Segmentation/blob/master/Image/github.PNG)
